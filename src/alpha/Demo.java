@@ -5,6 +5,7 @@ import org.apache.logging.log4j.Logger;
 
 public class Demo {
 	
+	
 	private static Logger log = LogManager.getLogger(Demo.class.getName());
 
 	public static void main(String[] args) {
@@ -16,6 +17,8 @@ public class Demo {
 		log.debug("it's debug message");
 		log.info("It's info");
 		log.trace("Trace log it's");
+		
+		
 
 	}
 
