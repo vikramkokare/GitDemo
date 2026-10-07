@@ -7,5 +7,9 @@ public class democlass {
 
 		System.out.println("This is sample change");
 	}
+	
+	public void demoMethod() {
+		System.out.println("This is demo method");
+	}
 
 }
